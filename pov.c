@@ -1,7 +1,6 @@
 // POV project
 // Basic POV Sketch - Prints static text
-// techydiy.org
-// https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 // 
 // Hall effect sensor is connected to ICP1 digital pin 8
 // LEDS connected to port D
